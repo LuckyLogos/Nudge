@@ -59,7 +59,7 @@ Here are some screenshots of Nudge and its features.
 
 ## 📥 Download Nudge
 
-[⬇️ Download Nudge v1.0.0](./Nudge-v1.0.0.apk)
+[⬇️ Download Nudge v1.0.0](https://github.com/LuckyLogos/Nudge/releases/download/v1.0.0/Nudge.1.0.apk)
 
 Nudge v1.0.0 is ready for everyday use.
 
