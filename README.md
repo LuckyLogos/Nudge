@@ -46,14 +46,14 @@ Here are some screenshots of Nudge and its features.
 
 <table>
 <tr>
-<td><img src="IMG-20260907-WA0000(1).jpg" width="250"></td>
-<td><img src="IMG-20260907-WA0001(1).jpg" width="250"></td>
-<td><img src="IMG-20260907-WA0003(1).jpg" width="250"></td>
+<td><img src="IMG-20260910-WA0004.jpg" width="250"></td>
+<td><img src="IMG-20260910-WA0005.jpg" width="250"></td>
+<td><img src="IMG-20260910-WA0006.jpg" width="250"></td>
 </tr>
 <tr>
-<td><img src="IMG-20260907-WA0004(1).jpg" width="250"></td>
-<td><img src="IMG-20260907-WA0005(1).jpg" width="250"></td>
-<td><img src="Screenshot_20260907-082802.Nudge.png" width="250"></td>
+<td><img src="IMG-20260910-WA0007.jpg" width="250"></td>
+<td><img src="IMG-20260910-WA0008.jpg" width="250"></td>
+<td><img src="IMG-20260910-WA0009.jpg" width="250"></td>
 </tr>
 </table>
 
