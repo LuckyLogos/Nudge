@@ -11,34 +11,51 @@ Nudge is a personal reminder and organization app designed to help you stay on t
 ## ✨ Features
 
 ### 🔔 Reminders
-Create reminders for important tasks, plans, or events and get notified at the right time.
+Create reminders for important tasks, plans, and events, with notifications at the right time.
 
 ### 📅 Calendar & Important Dates
 Organize important dates, festivals, and observances with customizable reminder timings.
 
-### 🌎 Event Reminders
+### 🌍 Event Reminders
 Get automatic reminders for upcoming festivals, world days, and other important events.
 
 ### 📝 Notes
 Quickly save ideas, information, plans, and things you want to remember in one place.
 
-### ⏳ Track Your Hours
+### ⏱️ Track Your Hours
 Record the time you spend on different activities and track your daily time investment.
 
 ### 🧠 Deep Dive
-Start a focused session for 30 minutes, 1 hour, or a custom duration with a completion notification.
+Start a focused session for a selected duration and receive a notification when your session is complete.
 
 ### 📊 Insights & Reports
-Review your time, goals, and activity through monthly and historical insights.
+Review your time goals, daily activity, progress, consistency, and historical insights.
 
 ### 📄 PDF Reports
-Generate, download, and share PDF reports of your recorded information.
+Generate detailed, fully offline PDF reports for your recorded time and activity.
+- Monthly reports
+- Multiple-month reports
+- Download and share reports
+- Visual calendars, progress, and insights
 
-### 📥 Download History
-Keep track of the reports you have previously downloaded.
+### 🗑️ Recently Deleted
+Recover deleted reminders within 30 days before they are permanently removed.
 
 ### 💾 Backup & Restore
-Back up your Nudge data and restore it whenever you need it.
+Create a local backup of your Nudge data and restore it whenever you need it.
+- Manual local backup
+- Automatic backup
+- Backup reminders
+- Restore previous backups
+
+### 📜 Export History
+Keep track of PDF reports and other exports you have previously generated.
+
+### 🕐 Nudge Clock Widget
+Keep your time visible with a resizable and movable clock widget on your home screen.
+
+### ↕️ Reorder & Organize
+Reorder your time goals and daily entries to keep your workflow organized the way you want.
 
 ## 📱 Screenshots
 
