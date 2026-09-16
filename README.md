@@ -88,9 +88,11 @@ It also helps you understand your **time investment and progress** through:
 
 ### Direct APK
 
-**[⬇️ Download Nudge v1.0.0](https://github.com/LuckyLogos/Nudge/releases/download/v1.0.0/Nudge.1.0.apk)**
+**[⬇️ Download Nudge v1.1.0](https://github.com/LuckyLogos/Nudge/releases/download/v1.1.0/Nudge.1.1.0.apk)**
 
-Nudge v1.0.0 is ready for everyday use.
+Nudge v1.1.0 is ready for everyday use.
+
+---
 
 ---
 
