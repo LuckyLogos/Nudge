@@ -4,14 +4,6 @@
 
 Nudge is a personal reminder, organization, and time-investment app designed to help you remember important things, organize your day, and understand where your time goes.
 
-<p align="center">
-
-<img src="IMG-20260916-WA0039.jpg" width="250">
-<img src="IMG-20260916-WA0040.jpg" width="250">
-<img src="IMG-20260916-WA0041.jpg" width="250">
-
-</p>
-
 ---
 
 ## ✨ Why Nudge?
@@ -30,7 +22,7 @@ It is designed around a simple idea:
 |---|---|
 | 🔔 **Reminders** | Create reminders for important tasks, plans, and events with notifications at the right time. |
 | 📅 **Calendar & Important Dates** | Organize important dates, festivals, and observances with customizable reminder timings. |
-| 🌍 **Event Reminders** | Get automatic reminders for upcoming festivals, world days, and other important events. |
+| 🌎 **Event Reminders** | Get automatic reminders for upcoming festivals, world days, and other important events. |
 | 📝 **Notes** | Quickly save ideas, information, plans, and things you want to remember. |
 | ⏱️ **Track Your Hours** | Record the time you spend on different activities and track your daily time investment. |
 | 🧠 **Deep Dive** | Start focused sessions for a selected duration and receive a notification when the session is complete. |
@@ -38,7 +30,7 @@ It is designed around a simple idea:
 | 📄 **PDF Reports** | Generate detailed offline PDF reports of your recorded time and activity. |
 | 🗑️ **Recently Deleted** | Recover deleted reminders within 30 days before they are permanently removed. |
 | 💾 **Backup & Restore** | Create local backups and restore your Nudge data whenever needed. |
-| 📜 **Export History** | Keep track of previously generated PDF reports and exports. |
+| 📤 **Export History** | Keep track of previously generated PDF reports and exports. |
 | 🕐 **Nudge Clock Widget** | Keep your time visible with a movable and resizable clock widget on your home screen. |
 | ↕️ **Reorder & Organize** | Reorder time goals and daily entries to organize your workflow. |
 
@@ -63,19 +55,32 @@ It also helps you understand your **time investment and progress** through:
 
 ## 📸 Screenshots
 
-<p align="center">
-
-<img src="IMG-20260916-WA0039.jpg" width="250">
-<img src="IMG-20260916-WA0040.jpg" width="250">
-<img src="IMG-20260916-WA0041.jpg" width="250">
-
-<br>
-
-<img src="IMG-20260916-WA0042.jpg" width="250">
-<img src="IMG-20260916-WA0043.jpg" width="250">
-<img src="IMG-20260916-WA0044.jpg" width="250">
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="IMG-20260916-WA0039.jpg" width="280">
+    </td>
+    <td align="center">
+      <img src="IMG-20260916-WA0040.jpg" width="280">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="IMG-20260916-WA0041.jpg" width="280">
+    </td>
+    <td align="center">
+      <img src="IMG-20260916-WA0042.jpg" width="280">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="IMG-20260916-WA0043.jpg" width="280">
+    </td>
+    <td align="center">
+      <img src="IMG-20260916-WA0044.jpg" width="280">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -118,6 +123,6 @@ Nudge is designed with privacy in mind.
 
 ## 🌱 What's Next
 
-Nudge is continuously evolving with new improvements, features, and refinements focused on making everyday organization and time tracking simpler.
+Nudge is continuously evolving with new improvements, features, and refinements focused on making everyday organization and time tracking easier.
 
 **Nudge — Remember what matters.**
