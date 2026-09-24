@@ -6,6 +6,16 @@ Nudge is a personal reminder, organization, and time-investment app designed to 
 
 ---
 
+## 📱 Download Nudge
+
+**[⬇️ Download Nudge v1.2.0](https://github.com/LuckyLogos/Nudge/releases/download/v1.2.0/Nudge.1.2.0.apk)**
+
+**Version:** 1.2.0 · **Android APK** · **18.3 MB**
+
+Nudge is ready for everyday use.
+
+---
+
 ## ✨ Why Nudge?
 
 Nudge brings reminders, important dates, notes, time tracking, focused sessions, reports, and data management together in one simple Android app.
@@ -28,11 +38,10 @@ It is designed around a simple idea:
 | 🧠 **Deep Dive** | Start focused sessions for a selected duration and receive a notification when the session is complete. |
 | 📊 **Insights & Reports** | Review time goals, daily activity, progress, consistency, and historical insights. |
 | 📄 **PDF Reports** | Generate detailed offline PDF reports of your recorded time and activity. |
-| 🗑️ **Recently Deleted** | Recover deleted reminders within 30 days before they are permanently removed. |
 | 💾 **Backup & Restore** | Create local backups and restore your Nudge data whenever needed. |
-| 📤 **Export History** | Keep track of previously generated PDF reports and exports. |
-| 🕐 **Nudge Clock Widget** | Keep your time visible with a movable and resizable clock widget on your home screen. |
-| ↕️ **Reorder & Organize** | Reorder time goals and daily entries to organize your workflow. |
+| 🛒 **Shopping History** | Keep track of previously recorded shopping information. |
+| 🕘 **Nudge Clock Widget** | Keep your time visible with a simple and useful clock widget on your home screen. |
+| 📅 **Reminder & Organizer** | Keep your important reminders and daily tasks organized in one place. |
 
 ---
 
@@ -46,10 +55,10 @@ It also helps you understand your **time investment and progress** through:
 - Multiple-month reports
 - Visual calendars
 - Progress tracking
-- Consistency insights
+- Consistency metrics
 - Historical activity
 - Time distribution
-- PDF export and sharing
+- PDF reports and sharing
 
 ---
 
@@ -58,41 +67,29 @@ It also helps you understand your **time investment and progress** through:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="IMG-20260916-WA0039.jpg" width="280">
+      <img src="IMG-20260916-WA039.jpg" width="280">
     </td>
     <td align="center">
-      <img src="IMG-20260916-WA0040.jpg" width="280">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="IMG-20260916-WA0041.jpg" width="280">
-    </td>
-    <td align="center">
-      <img src="IMG-20260916-WA0042.jpg" width="280">
+      <img src="IMG-20260916-WA040.jpg" width="280">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="IMG-20260916-WA0043.jpg" width="280">
+      <img src="IMG-20260916-WA041.jpg" width="280">
     </td>
     <td align="center">
-      <img src="IMG-20260916-WA0044.jpg" width="280">
+      <img src="IMG-20260916-WA042.jpg" width="280">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="IMG-20260916-WA043.jpg" width="280">
+    </td>
+    <td align="center">
+      <img src="IMG-20260916-WA044.jpg" width="280">
     </td>
   </tr>
 </table>
-
----
-
-## 📥 Download
-
-### Direct APK
-
-**[⬇️ Download Nudge v1.1.0](https://github.com/LuckyLogos/Nudge/releases/download/v1.1.0/Nudge.1.1.0.apk)**
-
-Nudge v1.1.0 is ready for everyday use.
-
----
 
 ---
 
@@ -114,17 +111,22 @@ Nudge is designed with privacy in mind.
 |---|---|
 | Language | Kotlin |
 | UI | Jetpack Compose |
-| Design | Material 3 |
 | Database | Room |
-| Notifications | Android NotificationManager |
-| Scheduling | AlarmManager |
-| Reports | Android PDF generation |
-| Architecture | Native Android |
+| Notifications | Android AlarmManager & NotificationManager |
+| Architecture | Android native architecture |
+| Reports | Offline PDF generation |
+| Platform | Android |
 
 ---
 
-## 🌱 What's Next
+## 🔮 What's Next?
 
-Nudge is continuously evolving with new improvements, features, and refinements focused on making everyday organization and time tracking easier.
+Nudge is continuously being improved with new features, refinements, and usability improvements.
+
+The goal remains simple:
+
+> **Help you remember what matters and understand where your time goes.**
+
+---
 
 **Nudge — Remember what matters.**
