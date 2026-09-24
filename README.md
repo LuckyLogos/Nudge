@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./nudge-banner.png" alt="Nudge - Remember what matters" width="100%">
+</p>
+
 # 🧠 Nudge
 
 > **Remember what matters.**
