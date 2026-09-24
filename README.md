@@ -67,30 +67,29 @@ It also helps you understand your **time investment and progress** through:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="IMG-20260916-WA039.jpg" width="280">
+      <img src="IMG-20260916-WA0039.jpg" width="280">
     </td>
     <td align="center">
-      <img src="IMG-20260916-WA040.jpg" width="280">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="IMG-20260916-WA041.jpg" width="280">
-    </td>
-    <td align="center">
-      <img src="IMG-20260916-WA042.jpg" width="280">
+      <img src="IMG-20260916-WA0040.jpg" width="280">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="IMG-20260916-WA043.jpg" width="280">
+      <img src="IMG-20260916-WA0041.jpg" width="280">
     </td>
     <td align="center">
-      <img src="IMG-20260916-WA044.jpg" width="280">
+      <img src="IMG-20260916-WA0042.jpg" width="280">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="IMG-20260916-WA0043.jpg" width="280">
+    </td>
+    <td align="center">
+      <img src="IMG-20260916-WA0044.jpg" width="280">
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🔐 Privacy
@@ -119,7 +118,7 @@ Nudge is designed with privacy in mind.
 
 ---
 
-## 🔮 What's Next?
+## 🌱 What's Next?
 
 Nudge is continuously being improved with new features, refinements, and usability improvements.
 
