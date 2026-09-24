@@ -65,30 +65,32 @@ It also helps you understand your **time investment and progress** through:
 ## 📸 Screenshots
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <img src="IMG-20260916-WA0039.jpg" width="280">
-    </td>
-    <td align="center">
-      <img src="IMG-20260916-WA0040.jpg" width="280">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="IMG-20260916-WA0041.jpg" width="280">
-    </td>
-    <td align="center">
-      <img src="IMG-20260916-WA0042.jpg" width="280">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="IMG-20260916-WA0043.jpg" width="280">
-    </td>
-    <td align="center">
-      <img src="IMG-20260916-WA0044.jpg" width="280">
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="IMG-20260924-WA0012.jpg" width="280">
+</td>
+<td align="center">
+<img src="IMG-20260916-WA0040.jpg" width="280">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="IMG-20260916-WA0041.jpg" width="280">
+</td>
+<td align="center">
+<img src="IMG-20260916-WA0042.jpg" width="280">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="IMG-20260924-WA0013.jpg" width="280">
+</td>
+<td align="center">
+<img src="IMG-20260916-WA0044.jpg" width="280">
+</td>
+</tr>
 </table>
 ---
 
