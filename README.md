@@ -12,9 +12,9 @@ Nudge is a personal reminder, organization, and time-investment app designed to 
 
 ## 📱 Download Nudge
 
-**[⬇️ Download Nudge v1.2.0](https://github.com/LuckyLogos/Nudge/releases/download/v1.2.0/Nudge.1.2.0.apk)**
+**[⬇️ Download Nudge v1.2.1](https://github.com/LuckyLogos/Nudge/releases/download/v1.2.1/Nudge.1.2.1.apk)**
 
-**Version:** 1.2.0 · **Android APK** · **18.3 MB**
+**Version:** 1.2.1 · **Android APK** · **18.9 MB**
 
 Nudge is ready for everyday use.
 
